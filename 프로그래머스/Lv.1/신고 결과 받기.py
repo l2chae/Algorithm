@@ -1,3 +1,5 @@
+# reports = {x : 0 for x in id_list} { "muzi" : 0 } 이런식으로 dict 생성하는 방법도 있음
+
 def solution(id_list, report, k):
     l = len(id_list)
     answer = []
